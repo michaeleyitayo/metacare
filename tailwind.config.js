@@ -15,9 +15,7 @@ module.exports = {
                 xxl: "1440px",
             },
             fontFamily: {
-                sans: ["Arial", "sans-serif"],
-                gilroy: ["Gilroy", "Roboto"],
-                vietnam: ["Be Vietnam Pro", "sans-serif"],
+                sans: ["Gelion", "sans-serif"],
             },
         },
     },
