@@ -7,10 +7,13 @@ interface IIcon {
   fill: string;
 }
 
+interface IsubNav {
+  name: string;
+}
 interface INavItem {
   Icon: FC<IIcon>;
   name: string;
-  subNavs?: { name: string }[];
+  subNavs?: IsubNav[];
   isActive?: boolean;
 }
 
