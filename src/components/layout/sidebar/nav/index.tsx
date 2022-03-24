@@ -43,6 +43,7 @@ const Nav = () => {
           { name: "Training SAM" },
           { name: "Help Center" },
         ]}
+        isActive
       />
     </div>
   );
