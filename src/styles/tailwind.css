@@ -18,3 +18,8 @@
 input[type="text"]:focus ~ .input-text {
   @apply text-blue-600 bg-white transform -translate-y-6 -translate-x-2 scale-75;
 }
+
+.border-reg {
+  @apply border-[1px];
+  @apply border-[#E5E5E5];
+}

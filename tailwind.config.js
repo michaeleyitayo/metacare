@@ -14,6 +14,9 @@ module.exports = {
                 lg: "1200px",
                 xxl: "1440px",
             },
+            colors: {
+                primary: "#696D8C",
+            },
             fontFamily: {
                 sans: ["Gelion", "sans-serif"],
             },
