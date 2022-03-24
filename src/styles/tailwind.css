@@ -23,3 +23,7 @@ input[type="text"]:focus ~ .input-text {
   @apply border-[1px];
   @apply border-[#E5E5E5];
 }
+.border-l-reg {
+  @apply border-l-[1px];
+  @apply border-l-[#E5E5E5];
+}
