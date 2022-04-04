@@ -17,6 +17,7 @@ module.exports = {
             colors: {
                 primary: "#696D8C",
                 grey: "#E5E5E5",
+                black: "#060213",
             },
             fontFamily: {
                 sans: ["Gelion", "sans-serif"],
